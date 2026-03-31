@@ -1,5 +1,6 @@
 import axios from "axios";
 import * as cheerio from "cheerio";
+import { parse } from "date-fns";
 
 // Fetch the HTML content of the page
 const url = "https://www.insa-lyon.fr/fr/actualites";
@@ -29,7 +30,12 @@ async function parseHTML(html: string): Promise<string> {
     const title = $(element).find("h4").text().trim();
     const link = $(element).find("h4 a").attr("href");
     const description = $(element).find("p.excerpt").text().trim();
-    const pubDate = $(element).find("span.date").text().trim();
+    const pubDate = parse(
+      $(element).find("span.date").text().trim(),
+      "dd/MM/yyyy",
+      new Date(),
+    ).toJSON(); //30/03/2026
+
     const imgSrc = $(element).find("img").attr("src");
 
     rssFeed += `

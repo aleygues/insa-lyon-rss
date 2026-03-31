@@ -2,7 +2,7 @@ services:
   rss-generator:
     build: .
     ports:
-      - "3000:3000"
+      - "3020:3000"
     volumes:
       - ./src:/app/src
     entrypoint: sh
