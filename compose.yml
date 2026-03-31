@@ -1,0 +1,9 @@
+services:
+  rss-generator:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./src:/app/src
+    entrypoint: sh
+    command: -c "npm run dev"
