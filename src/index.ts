@@ -1,10 +1,10 @@
 import express from "express";
-import { getRss } from "./scrap";
+import { rssCache } from "./cache";
 
 const app = express();
 
 app.get("/", async (req, res) => {
-  const rss = await getRss();
+  const rss = await rssCache.get();
   res.set("Content-Type", "application/rss+xml");
   res.send(rss);
 });

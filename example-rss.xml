@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+    <title>INSA Lyon News</title>
+    <link>https://www.insa-lyon.fr/fr/actualites</link>
+    <description>Latest news from INSA Lyon</description>
+    <atom:link rel="self" href="https://www.insa-lyon.fr/fr/actualites" />
+    
+      <item>
+      <title>Rentrée 2026-2027 : des parcours plus ouverts pour former les ingénieurs de demain</title>
+      <link>https://www.insa-lyon.fr/fr/actualites/rentree-2026-2027-parcours-plus-ouverts-pour-former-ingenieurs-demain</link>
+      <guid>https://www.insa-lyon.fr/fr/actualites/rentree-2026-2027-parcours-plus-ouverts-pour-former-ingenieurs-demain</guid>
+      <description>À la rentrée 2026-2027, l’INSA Lyon élargit ses parcours, de l’apprentissage aux doubles diplômes, et adapte ses pédagogies à l’IA, aux transitions et à un nouveau rapport au savoir.</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://www.insa-lyon.fr/sites/www.insa-lyon.fr/files/styles/actu_liste/public/actualites/focus_formation.png?itok=_u5raDLl" length="132565" type="image/jpeg" />
+      </item>
+    
+      <item>
+      <title>ChirBaby : quand les élèves-ingénieurs mettent la mécanique au service de la chirurgie pédiatrique</title>
+      <link>https://www.insa-lyon.fr/fr/actualites/chirbaby-quand-eleves-ingenieurs-mettent-mecanique-au-service-chirurgie-pediatrique</link>
+      <guid>https://www.insa-lyon.fr/fr/actualites/chirbaby-quand-eleves-ingenieurs-mettent-mecanique-au-service-chirurgie-pediatrique</guid>
+      <description>En 4e année du département Génie mécanique, des élèves de l’INSA Lyon relèvent ce défi avec « ChirBaby », un simulateur de chirurgie pédiatrique qui confronte mécanique, anatomie et besoins réels des professionnels de santé.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://www.insa-lyon.fr/sites/www.insa-lyon.fr/files/styles/actu_liste/public/actualites/chirbaby.png?itok=z5iRzmBy" length="97956" type="image/jpeg" />
+      </item>
+    
+      <item>
+      <title>Le département Génie Industriel ouvre sa formation à l&apos;apprentissage</title>
+      <link>https://www.insa-lyon.fr/fr/actualites/departement-genie-industriel-ouvre-sa-formation-l-apprentissage</link>
+      <guid>https://www.insa-lyon.fr/fr/actualites/departement-genie-industriel-ouvre-sa-formation-l-apprentissage</guid>
+      <description>À la rentrée 2026-2027, le département Génie Industriel de l’INSA Lyon ouvre GIAP, une nouvelle filière par apprentissage qui accueille 27 élèves et renforce les liens avec le monde industriel.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://www.insa-lyon.fr/sites/www.insa-lyon.fr/files/styles/actu_liste/public/actualites/giap.png?itok=W77cWudD" length="142626" type="image/jpeg" />
+      </item>
+    
+      <item>
+      <title>Alice Vitoux, le prix de l’engagement</title>
+      <link>https://www.insa-lyon.fr/fr/actualites/alice-vitoux-prix-l-engagement</link>
+      <guid>https://www.insa-lyon.fr/fr/actualites/alice-vitoux-prix-l-engagement</guid>
+      <description>Portrait d’Alice Vitoux, diplômée de l’INSA Lyon et fondatrice de La Fresque Océane, engagée depuis plusieurs années pour la transition écologique et la préservation de l’océan.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://www.insa-lyon.fr/sites/www.insa-lyon.fr/files/styles/actu_liste/public/actualites/fresque_oceane.png?itok=UMtW3NIk" length="130812" type="image/jpeg" />
+      </item>
+    
+      <item>
+      <title>Mon INSA Lyon : l’appli qui simplifie la vie étudiante sur le campus !</title>
+      <link>https://www.insa-lyon.fr/fr/actualites/mon-insa-lyon-l-appli-qui-simplifie-vie-etudiante-sur-campus</link>
+      <guid>https://www.insa-lyon.fr/fr/actualites/mon-insa-lyon-l-appli-qui-simplifie-vie-etudiante-sur-campus</guid>
+      <description>L&apos;appli « Mon INSA Lyon » réunit dans une seule interface les services utiles à la vie étudiante : emploi du temps, menus, plan du campus, contacts et démarches.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://www.insa-lyon.fr/sites/www.insa-lyon.fr/files/styles/actu_liste/public/actualites/vignette_article-site-appli.jpg?itok=meN-Xi2R" length="8935" type="image/jpeg" />
+      </item>
+    
+    </channel>
+    </rss>
